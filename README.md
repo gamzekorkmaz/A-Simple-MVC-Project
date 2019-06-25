@@ -1,1 +1,1 @@
-# A-Simple-MVC-Project
+# It's a simple MVC project. 
